@@ -1,6 +1,6 @@
 var JSONObject= {
     "name":"Jamie Gardner",
-    "street":"167 Sherman Street",
+    "street":"167 Ben Sherman Street",
     "age":22,
     "email":"jagardner4@uclan.ac.uk"};
 
