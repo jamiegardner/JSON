@@ -7,4 +7,4 @@ var JSONObject= {
 document.getElementById("name").innerHTML=JSONObject.name; <!-- placing info in HTML document -->
 document.getElementById("age").innerHTML=JSONObject.age;   <!-- placing info in HTML document -->
 document.getElementById("street").innerHTML=JSONObject.street;  <!-- placing info in HTML document -->
-document.getElementById("email").innerHTML=JSONObject.email;    <!-- placing info in HTML document -->
+document.getElementById("email").innerHTML=JSONObject.email;      <!-- placing info in HTML document -->
